@@ -1,3 +1,3 @@
 # https://banner.github.io
-# https://incorretos.gitbu.io
+# https://incorretos.github.io
 # incorretos
